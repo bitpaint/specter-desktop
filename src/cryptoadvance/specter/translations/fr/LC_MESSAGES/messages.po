@@ -174,7 +174,7 @@ msgstr "La clé de masquage maître a été ajoutée avec succès"
 
 #: src/cryptoadvance/specter/server_endpoints/devices.py:265
 msgid "Invalid master blinding key! It should be in WIF or hex format."
-msgstr ""
+msgstr "Clé de masquage maître invalide! Elle doit être au format WIF ou hex"
 
 #: src/cryptoadvance/specter/server_endpoints/devices.py:301
 msgid "xpubs name cannot be empty"
